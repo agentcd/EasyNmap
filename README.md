@@ -9,7 +9,7 @@ Installation
         
         1 - sudo apt update
         2 - sudo apt install git
-        3 - git clone 
+        3 - git clone https://github.com/agentcrazy101/EasyNmap.git
         4 - cd automated-nmap
         5 - chmod +x anmap.sh && chmod +x install.sh
         6 - sudo ./install.sh
