@@ -1,3 +1,8 @@
+This Tool Is Created For Automate Famouse Nmap Scans For Your Easier.
+
+Use This Script For Educations Purposes Only !!!
+Any Actions And or Activities Related To AutoNmap Is Completely Your Responsibility !!!
+
 Installation
         
         Type These Commands on Your Terminal
@@ -15,4 +20,6 @@ Installation
         Final Command
         
         7 - sudo ./anmap.sh
+        
+        Done.
         
