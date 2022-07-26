@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # Sudo permission need for run this script
 
