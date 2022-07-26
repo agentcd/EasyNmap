@@ -10,8 +10,8 @@ Installation
         1 - sudo apt update
         2 - sudo apt install git
         3 - git clone https://github.com/agentcrazy101/EasyNmap.git
-        4 - cd automated-nmap
-        5 - chmod +x anmap.sh && chmod +x install.sh
+        4 - cd EasyNmap
+        5 - chmod +x easynmap.sh && chmod +x install.sh
         6 - sudo ./install.sh
         
         Please Remember You Don't Need To Go All These Process Every Time You Running This Script
@@ -19,7 +19,7 @@ Installation
         
         Final Command
         
-        7 - sudo ./anmap.sh
+        7 - sudo ./easynmap.sh
         
         Done.
         
